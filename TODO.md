@@ -1,32 +1,8 @@
-# TODO for Portfolio Updates
+# Portfolio README Update Tasks
 
-- [x] Install 3D dependencies: react-three-fiber, @react-three/drei, three
-- [x] Create PersonUsingComputer.jsx component with 3D scene
-- [x] Integrate PersonUsingComputer into Hero.jsx
-- [x] Test responsiveness and performance
-- [x] Run the app to verify the animation works
-- [x] Update About.jsx with correct CGPA and location
-- [x] Update Certifications.jsx with correct dates
-- [x] Update Contact.jsx with phone number
-- [x] Update index.html title and description
-- [x] Verify all updates are complete
-- [x] Add smooth scrolling for better UX
-- [x] Create ScrollToTop component for easy navigation
-- [x] Add aria-labels for accessibility
-- [x] Add loading state to 3D animation
-- [x] Make website more user-friendly
-- [x] Install new dependencies: formik, yup, react-intersection-observer, axios
-- [x] Add dark mode toggle to Header.jsx
-- [x] Create ScrollProgress.jsx component
-- [x] Update Skills.jsx with progress bars
-- [x] Create ProjectModal.jsx component
-- [x] Update Projects.jsx with search/filter and modal integration
-- [x] Create Testimonials.jsx component
-- [x] Create Blog.jsx component
-- [x] Create GitHubStats.jsx component
-- [x] Replace Contact.jsx with contact form
-- [x] Update Footer.jsx with newsletter signup
-- [x] Update App.js to include new sections
-- [x] Update styles.css for new animations
-- [x] Test all new features
-- [x] Ensure responsiveness and accessibility
+- [x] Rewrite README.md to showcase portfolio with embedded images and video from public folder
+- [x] Add demo video section at the top
+- [x] Add screenshots for key sections (Hero, About, Skills, Projects, Work Experience, Certifications, Testimonials, Contact, GitHub Stats)
+- [x] Include brief descriptions for each section
+- [x] Add links to resume PDFs
+- [x] Verify relative paths for assets (e.g., public/About.png)
