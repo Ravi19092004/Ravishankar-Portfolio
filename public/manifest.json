@@ -1,0 +1,8 @@
+{
+  "short_name": "My Portfolio",
+  "name": "My Portfolio App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4299e1",
+  "background_color": "#1a202c"
+}
